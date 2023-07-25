@@ -272,7 +272,7 @@ SMTP порт
 ```python
     # SMTP_PORT: int = int(os.getenv('SMTP_PORT', '587'))  # Для starttls
     # SMTP_PORT: int = int(os.getenv('SMTP_PORT', '465'))  # Для SSL
-    SMTP_PORT: int =  int(os.getenv("SMTP_PORT", "25"))   # По умолчанию
+    SMTP_PORT: int =  int(os.getenv('SMTP_PORT', '25'))   # По умолчанию
 ```
 
 **SMTP_SENDER**
