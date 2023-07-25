@@ -224,7 +224,7 @@ Send email via STARTTLS (default is False). This is an additional option for --e
 **-nb, --no-banner**
 
 Do not print banner (default is False).
-Banner is information about the script execution environment: Python version, computer name, OS name, OS release, OS version, architecture, CPU, summary table of preset options and information about the path to the external whois utility.
+Banner is information about the script execution environment: Python version, computer name, OS name, OS release, OS version, architecture, CPU, summary table of preset options.
 
 
 ## Global constants in the script
