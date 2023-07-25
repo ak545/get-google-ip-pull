@@ -4,22 +4,22 @@
 **get_google_ip_pull.py** - This is a simple python-script to get Google's current actual IP address ranges.
 
 ## Screenshots
-![](https://github.com/ak545/get-google-ip-pull/raw/master/images/script.png)
+![](https://raw.githubusercontent.com/ak545/get-google-ip-pull/main/images/script.png)
 > Script in working
 
 <details>
 <summary>More</summary>
 
-![](https://github.com/ak545/get-google-ip-pull/raw/master/images/script2.png)
+![](https://raw.githubusercontent.com/ak545/get-google-ip-pull/main/images/script2.png)
 > Script in working
 
-![](https://github.com/ak545/get-google-ip-pull/raw/master/images/script3.png)
+![](https://raw.githubusercontent.com/ak545/get-google-ip-pull/main/images/script3.png)
 > Script in working
 
-![](https://github.com/ak545/get-google-ip-pull/raw/master/images/email.png)
+![](https://raw.githubusercontent.com/ak545/get-google-ip-pull/main/images/email.png)
 > A sample of the email
 
-![](https://github.com/ak545/get-google-ip-pull/raw/master/images/telegram.png)
+![](https://raw.githubusercontent.com/ak545/get-google-ip-pull/main/images/telegram.png)
 > A sample of the Telegram message
 
 </details>
